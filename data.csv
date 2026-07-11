@@ -1,0 +1,139 @@
+Transaction ID,Date,Description,Amount,Category
+TXN1000,2026-04-01,Local Cafe,25.06,Food
+TXN1001,2026-04-01,Coles,62.2,Food
+TXN1002,2026-04-01,Telstra Mobile,157.86,Bills
+TXN1003,2026-04-03,Aldi,6.28,Food
+TXN1004,2026-04-04,Chemist Warehouse,152.64,Shopping
+TXN1005,2026-04-05,Amazon AU,267.99,Shopping
+TXN1006,2026-04-05,IGA Supermarket,33.26,Food
+TXN1007,2026-04-06,Domino's Pizza,12.79,Food
+TXN1008,2026-04-07,Domino's Pizza,55.92,Food
+TXN1009,2026-04-07,Health Insurance - Medibank,145.65,Bills
+TXN1010,2026-04-08,Local Cafe,75.33,Food
+TXN1011,2026-04-08,Zara,206.3,Shopping
+TXN1012,2026-04-09,Uber Eats,70.48,Food
+TXN1013,2026-04-09,Netflix Subscription,219.96,Bills
+TXN1014,2026-04-09,Taxi,23.71,Transport
+TXN1015,2026-04-10,Local Cafe,64.36,Food
+TXN1016,2026-04-11,Kmart,191.61,Shopping
+TXN1017,2026-04-11,Subway,36.63,Food
+TXN1018,2026-04-15,Myer,263.98,Shopping
+TXN1019,2026-04-15,Airport Shuttle,46.63,Transport
+TXN1133,2026-04-15,Flight Booking - Jetstar,480.0,Shopping
+TXN1020,2026-04-18,Officeworks,212.78,Shopping
+TXN1021,2026-04-19,Car Service - Auto Care,65.85,Transport
+TXN1022,2026-04-20,Zara,47.93,Shopping
+TXN1023,2026-04-20,Car Service - Auto Care,5.37,Transport
+TXN1024,2026-04-21,Spotify Premium,243.67,Bills
+TXN1025,2026-04-21,Myki Top Up,105.11,Transport
+TXN1026,2026-04-21,Bakery on Main,56.37,Food
+TXN1027,2026-04-22,Shell Petrol,67.03,Transport
+TXN1028,2026-04-23,Parking Melbourne CBD,32.54,Transport
+TXN1029,2026-04-26,Kmart,234.32,Shopping
+TXN1030,2026-04-26,Internet - Aussie BB,84.64,Bills
+TXN1031,2026-04-27,Water Corp,194.93,Bills
+TXN1032,2026-04-27,Officeworks,348.35,Shopping
+TXN1033,2026-04-28,Car Service - Auto Care,18.92,Transport
+TXN1034,2026-04-28,Domino's Pizza,5.81,Food
+TXN1035,2026-04-28,Target,12.44,Shopping
+TXN1036,2026-04-29,Target,32.92,Shopping
+TXN1037,2026-04-29,Domino's Pizza,10.09,Food
+TXN1038,2026-04-29,Subway,22.42,Food
+TXN1039,2026-04-30,Bunnings Warehouse,92.62,Shopping
+TXN1040,2026-05-01,Netflix Subscription,46.22,Bills
+TXN1041,2026-05-01,Airport Shuttle,58.71,Transport
+TXN1042,2026-05-02,Coles,9.21,Food
+TXN1043,2026-05-02,JB Hi-Fi,94.54,Shopping
+TXN1044,2026-05-02,Subway,16.06,Food
+TXN1134,2026-05-02,Laptop Repair - Officeworks,320.0,Shopping
+TXN1045,2026-05-03,Uber Eats,79.21,Food
+TXN1046,2026-05-05,Water Corp,47.03,Bills
+TXN1047,2026-05-05,Uber,116.43,Transport
+TXN1048,2026-05-06,Subway,45.4,Food
+TXN1049,2026-05-07,Internet - Aussie BB,110.27,Bills
+TXN1050,2026-05-07,Subway,28.53,Food
+TXN1051,2026-05-08,Water Corp,173.92,Bills
+TXN1052,2026-05-08,Uber Eats,87.31,Food
+TXN1053,2026-05-08,Chemist Warehouse,30.73,Shopping
+TXN1054,2026-05-09,Aldi,45.0,Food
+TXN1055,2026-05-10,Bakery on Main,10.89,Food
+TXN1056,2026-05-10,Aldi,9.84,Food
+TXN1057,2026-05-11,BP Fuel,71.58,Transport
+TXN1058,2026-05-13,Aldi,52.61,Food
+TXN1059,2026-05-13,Local Cafe,21.57,Food
+TXN1060,2026-05-14,Local Cafe,38.04,Food
+TXN1061,2026-05-14,Myer,165.46,Shopping
+TXN1062,2026-05-14,Telstra Mobile,27.1,Bills
+TXN1063,2026-05-15,Domino's Pizza,79.75,Food
+TXN1064,2026-05-16,Shell Petrol,55.39,Transport
+TXN1065,2026-05-17,Chemist Warehouse,12.66,Shopping
+TXN1066,2026-05-18,Coles,67.85,Food
+TXN1067,2026-05-19,Aldi,22.11,Food
+TXN1068,2026-05-20,Local Cafe,47.47,Food
+TXN1135,2026-05-20,Car Insurance - AAMI,610.0,Bills
+TXN1069,2026-05-22,Domino's Pizza,70.32,Food
+TXN1070,2026-05-23,Uber,17.87,Transport
+TXN1071,2026-05-23,Internet - Aussie BB,147.76,Bills
+TXN1072,2026-05-24,Officeworks,53.33,Shopping
+TXN1073,2026-05-24,Woolworths,81.31,Food
+TXN1074,2026-05-25,JB Hi-Fi,130.25,Shopping
+TXN1075,2026-05-26,Gym Membership - Anytime Fitness,244.11,Bills
+TXN1076,2026-05-26,Netflix Subscription,219.54,Bills
+TXN1077,2026-05-27,Origin Energy,65.36,Bills
+TXN1078,2026-05-28,Netflix Subscription,85.03,Bills
+TXN1079,2026-05-28,Woolworths,77.84,Food
+TXN1080,2026-05-29,Subway,34.07,Food
+TXN1081,2026-05-30,Uber Eats,38.27,Food
+TXN1082,2026-06-01,Water Corp,99.51,Bills
+TXN1083,2026-06-01,Spotify Premium,65.18,Bills
+TXN1084,2026-06-01,Coles,55.31,Food
+TXN1085,2026-06-02,Zara,158.37,Shopping
+TXN1086,2026-06-03,Aldi,20.35,Food
+TXN1087,2026-06-03,IGA Supermarket,4.15,Food
+TXN1088,2026-06-04,Target,133.84,Shopping
+TXN1089,2026-06-04,Domino's Pizza,57.59,Food
+TXN1090,2026-06-05,Spotify Premium,139.1,Bills
+TXN1091,2026-06-05,Local Cafe,51.68,Food
+TXN1092,2026-06-05,IGA Supermarket,62.25,Food
+TXN1093,2026-06-06,Myer,148.07,Shopping
+TXN1094,2026-06-08,IGA Supermarket,71.58,Food
+TXN1136,2026-06-08,Furniture - IKEA,890.0,Shopping
+TXN1095,2026-06-09,Bunnings Warehouse,160.21,Shopping
+TXN1096,2026-06-09,Chemist Warehouse,170.88,Shopping
+TXN1097,2026-06-10,Coles,28.41,Food
+TXN1098,2026-06-10,Zara,41.75,Shopping
+TXN1099,2026-06-10,Netflix Subscription,176.38,Bills
+TXN1100,2026-06-11,Woolworths,25.06,Food
+TXN1101,2026-06-12,JB Hi-Fi,164.84,Shopping
+TXN1102,2026-06-13,Woolworths,80.77,Food
+TXN1103,2026-06-14,Uber,69.1,Transport
+TXN1104,2026-06-14,Telstra Mobile,127.7,Bills
+TXN1105,2026-06-14,Chemist Warehouse,212.45,Shopping
+TXN1106,2026-06-15,Chemist Warehouse,155.09,Shopping
+TXN1107,2026-06-15,Health Insurance - Medibank,226.87,Bills
+TXN1108,2026-06-16,BP Fuel,101.58,Transport
+TXN1109,2026-06-16,Bakery on Main,45.68,Food
+TXN1110,2026-06-17,Coles,65.36,Food
+TXN1111,2026-06-18,Domino's Pizza,80.8,Food
+TXN1112,2026-06-20,IGA Supermarket,63.68,Food
+TXN1113,2026-06-21,IGA Supermarket,39.05,Food
+TXN1114,2026-06-21,Airport Shuttle,12.16,Transport
+TXN1115,2026-06-22,Aldi,36.71,Food
+TXN1116,2026-06-22,Domino's Pizza,29.68,Food
+TXN1117,2026-06-22,Airport Shuttle,66.9,Transport
+TXN1137,2026-06-22,Dentist - Private Clinic,275.0,Bills
+TXN1118,2026-06-23,BP Fuel,61.15,Transport
+TXN1119,2026-06-23,Subway,6.5,Food
+TXN1120,2026-06-23,IGA Supermarket,66.28,Food
+TXN1121,2026-06-24,Amazon AU,38.54,Shopping
+TXN1122,2026-06-25,Subway,19.63,Food
+TXN1123,2026-06-25,Domino's Pizza,22.2,Food
+TXN1124,2026-06-26,IGA Supermarket,27.93,Food
+TXN1125,2026-06-27,Coles,44.45,Food
+TXN1126,2026-06-27,Amazon AU,349.97,Shopping
+TXN1127,2026-06-28,Coles,71.19,Food
+TXN1128,2026-06-29,Woolworths,85.67,Food
+TXN1129,2026-06-29,Woolworths,57.43,Food
+TXN1130,2026-06-29,Subway,61.57,Food
+TXN1131,2026-06-30,Health Insurance - Medibank,182.38,Bills
+TXN1132,2026-06-30,Aldi,86.88,Food
