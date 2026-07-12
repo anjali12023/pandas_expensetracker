@@ -64,11 +64,13 @@ df_sorted = df.sort_values(by='Date')
 big_expenses = df[df["Amount"] >= 200]
 # print(big_expenses)
 
-group = df.groupby("Category")
 
-#group by Type 1, find mean of heights
+group = df.groupby("Category")
+#find means of Amount and group by category
 print(group["Amount"].mean())
 
+#maximum in each category 
+print(group["Amount"].max())
 
 
 
