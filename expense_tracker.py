@@ -57,7 +57,18 @@ df['Date'] = pd.to_datetime(df['Date'])
 df_sorted = df.sort_values(by='Date')
 # print(df_sorted)
 
-#calculate spending: 
-print(df.sum(numeric_only =True))
+#calculate TOTAL spending: 
+# print(df.sum(numeric_only =True))
+
+#find biggest expenses: 
+big_expenses = df[df["Amount"] >= 200]
+# print(big_expenses)
+
+group = df.groupby("Category")
+
+#group by Type 1, find mean of heights
+print(group["Amount"].mean())
+
+
 
 
