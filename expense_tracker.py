@@ -51,4 +51,13 @@ shopping_cat = df[df["Category"] == "Shopping"]
 # # desc = df[(df["Description"] == "Coles") & (df["Category"] == "Food")]
 # print(food_cat.to_string())
 
+df['Date'] = pd.to_datetime(df['Date'])
+
+# 2. Sort by the date column
+df_sorted = df.sort_values(by='Date')
+# print(df_sorted)
+
+#calculate spending: 
+print(df.sum(numeric_only =True))
+
 
